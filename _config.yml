@@ -1,14 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Nova's Dog Blog
+author: lyn-f and Nova
+email: lyn@novadogblog.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nova's Dog Blog is a blog about a Tamaskan dog named Nova. She is 6 years old and loves sunbathing,
+  snuggling on pillows, babying her stuffed toys, and sniffing butts. She gets to enjoy a juicy tomahawk
+  steak on her birthday, November 17th!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: novadogblog # DO NOT include the @ character, or else the build will fail!
+github_username:  lyn-f # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
